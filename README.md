@@ -1,5 +1,5 @@
 # Niantic Studio Toon Shader
-[日本語はこちら]()  
+[日本語はこちら](https://github.com/toya-mimura/8thwall-toon-postprocessing/blob/main/readme_jpn.md)  
 [Read this detail]()
 
 A custom toon/cel-shading effect component for Niantic Studio (formerly 8th Wall Studio) that transforms your 3D models into a stylized, cartoon-like appearance.
