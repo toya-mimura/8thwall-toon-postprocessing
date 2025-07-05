@@ -1,6 +1,6 @@
 # Niantic Studio トゥーンシェーダー
 
-- 詳細記事は[こちら]()をお読みください
+- 詳細記事は[こちら](https://toyaworks.substack.com/p/8thwall-33b)をお読みください
 
 Niantic Studio（旧8th Wall Studio）用のカスタムトゥーン/セルシェーディング効果コンポーネントです。3Dモデルを漫画やアニメのようなスタイライズされた見た目に変換します。
 
