@@ -1,5 +1,5 @@
 # Niantic Studio Toon Shader
-[日本語はこちら]()
+[日本語はこちら]()  
 [Read this detail]()
 
 A custom toon/cel-shading effect component for Niantic Studio (formerly 8th Wall Studio) that transforms your 3D models into a stylized, cartoon-like appearance.
@@ -20,17 +20,11 @@ Transform your realistic 3D models into stylized, anime-inspired visuals:
 - After: Stepped toon lighting with preserved textures
 
 ## Installation
-
-1. **Download the shader file**
-   ```
-   wget https://raw.githubusercontent.com/[your-username]/niantic-studio-toon-shader/main/toon-postprocess.js
-   ```
-
-2. **Upload to Niantic Studio**
+1. **Upload to Niantic Studio**
    - Open your Niantic Studio project
    - Drag and drop `toon-postprocess.js` into the **Assets** section
 
-3. **Apply to your scene**
+2. **Apply to your scene**
    - Select the **Camera** entity in the Hierarchy
    - Click **Add Component** in the Inspector
    - Choose **Custom Component** → **toon-postprocess**
